@@ -1,0 +1,46 @@
+.my-head {
+  text-align: center
+}
+
+h1 {
+  font-style: serif;
+  font-size: 50px
+  /*font-family: serif;*/
+}
+
+h2 {
+  font-style: serif;
+  font-size: 25px
+  /*font-family: serif;*/
+}
+
+h3 {
+  font-style: italic;
+  font-size: 20px
+  font-family: serif;
+}
+
+p {
+  font-size: 15px
+  font-family: serif;
+  text-indent: 50px;
+}
+
+.my-float {
+  float: left;
+  width: 49%;
+  border: 1px solid black;
+}
+
+.my-float2 {
+  float: left;
+  width: 49%;
+  border: 1px solid black;
+}
+
+.my-tag {
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+  font-family: serif;
+}
